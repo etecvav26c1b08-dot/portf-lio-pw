@@ -9,7 +9,18 @@ Principais características e usos:
 - Padrão W3C: É uma tecnologia padronizada para web, evoluindo do CSS2 ao CSS3 (em módulos).
 
 # formato do css
-####
+#### O formato do CSS (Cascading Style Sheets) baseia-se em uma estrutura de regras que definem como elementos HTML devem ser exibidos. O arquivo de computador padrão utiliza a extensão .css. Estrutura Fundamental
+Segundo a MDN Web Docs, uma regra CSS (ou "conjunto de regras") é composta por: 
+- Seletor: Indica o elemento HTML que você deseja estilizar (ex: h1, p, .minha-classe).
+- Bloco de Declarações: Delimitado por chaves { }, contém uma ou mais declarações.
+- Propriedade: O aspecto que você quer mudar (ex: color, font-size).
+- Valor: A configuração escolhida para a propriedade (ex: red, 20px). 
+Formas de Aplicação
+- Existem três maneiras principais de incluir esse formato em um projeto web, como explica a Hostinger: 
+- Externo: O código é escrito em um arquivo .css separado e vinculado ao HTML via tag <link>. É o formato mais recomendado para organização.
+- Interno: As regras são inseridas dentro da tag <style> no cabeçalho (<head>) do documento HTML.
+- Inline: O estilo é aplicado diretamente no atributo style de uma tag específica (ex:<p style="color: blue;">). 
+
 
 # tipos de CSS
 
