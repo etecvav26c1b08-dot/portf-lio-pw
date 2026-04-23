@@ -22,7 +22,8 @@ Formas de Aplicação
 - Inline: O estilo é aplicado diretamente no atributo style de uma tag específica (ex:<p style="color: blue;">). 
 
 
-# tipos de CSS
+# tipos de CSS 
+#### Existem três tipos principais de inserção de CSS (folhas de estilo) para estilizar páginas web: inline (na linha), interno/incorporado (na tag <style>) e externo (arquivo .css separado). Eles diferem na forma de aplicação e prioridade (especificidade). Além disso, existem diversos seletores CSS para alvo de elementos
 
 ## In-line
 
