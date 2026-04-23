@@ -9,6 +9,7 @@ Principais características e usos:
 - Padrão W3C: É uma tecnologia padronizada para web, evoluindo do CSS2 ao CSS3 (em módulos).
 
 # formato do css
+####
 
 # tipos de CSS
 
@@ -16,4 +17,4 @@ Principais características e usos:
 
 ## In-folder
 
-## esternal
+## external
